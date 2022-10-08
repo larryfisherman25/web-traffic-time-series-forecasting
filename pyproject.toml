@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "src"
 version = "0.1.0"
-description = ""
+description = "Kaggle chalange from Google: A time series study"
 authors = ["Matheus Fanali <matheusfgiraldes@gmail.com>", "Neusmar Junior <neusmar.jr@gmail.com>", "Raul Belarmino <rmsbelarmino@gmail.com>"]
 
 [tool.poetry.dependencies]
