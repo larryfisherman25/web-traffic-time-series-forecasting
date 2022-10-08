@@ -2,10 +2,10 @@
 name = "src"
 version = "0.1.0"
 description = ""
-authors = ["Madson Dias <madsonddias@gmail.com>"]
+authors = ["Matheus Fanali <matheusfgiraldes@gmail.com>", "Neusmar Junior <neusmar.jr@gmail.com>", "Raul Belarmino <rmsbelarmino@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "~3.8"
+python = "^3.8"
 numpy = "^1.22.3"
 pandas = "^1.4.2"
 jupyterlab = "^3.3.4"
